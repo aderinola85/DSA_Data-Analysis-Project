@@ -75,5 +75,6 @@ Working with real datasets
 
 ### Analysis 
 
-https://github.com/aderinola85/DSA_Data-Analysis-Project/blob/main/Pivot%20Tables%20File.xlsx
+![image](https://github.com/user-attachments/assets/80bbea88-809a-46c3-99f3-da52e426e173)
+
 
