@@ -78,5 +78,7 @@ Working with real datasets
 ![image](https://github.com/user-attachments/assets/80bbea88-809a-46c3-99f3-da52e426e173)
 ![image](https://github.com/user-attachments/assets/bf4b2893-a491-40c5-812d-f49defbd5118)
 ![image](https://github.com/user-attachments/assets/9122eb37-936b-44be-a33e-97e34efabb78)
+![image](https://github.com/user-attachments/assets/929313ae-0d25-4ecb-ae22-ce48bc234065)
+
 
 
